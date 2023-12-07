@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "322121757432",
+    "project_id": "tracker-f088e",
+    "storage_bucket": "tracker-f088e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322121757432:android:ac90a6199093e7ed7dc10d",
+        "android_client_info": {
+          "package_name": "com.mayank.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322121757432-df9r84rb6raaol9i9uiftg3nmb48subi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayank.tracker",
+            "certificate_hash": "07004e32b6d9e73439af84276fd0a888440ac971"
+          }
+        },
+        {
+          "client_id": "322121757432-127eoiq2s3eoth61r3r9d5c3ipulj37k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_D-wEj8V5Y0scG9D0apMXvNolQFhvgJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322121757432-127eoiq2s3eoth61r3r9d5c3ipulj37k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322121757432-8pl42qm2bqaru4s6qof0sp81gpn30ji6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mayank.tracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
